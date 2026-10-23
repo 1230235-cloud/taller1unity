@@ -17,7 +17,6 @@ Proyecto práctico desarrollado en **Unity 6** enfocado en la configuración y a
 - **Composición:**
   - Plano con textura y material de piso de madera.
   - Primitivas esféricas con materiales de ladrillo configurados con mapas de superficie (Base Map).
-
 ---
 
 ## Estructura del Proyecto
@@ -39,3 +38,10 @@ Assets/
   1. Abre **Unity Hub**.
   2. Haz clic en **Add** y selecciona la carpeta de este proyecto.
   3. Abre la escena en `Assets/Scenes/SampleScene.unity`.
+
+---
+
+---
+
+##Proposito del taller
+- Demostar el uso de las texturas en unitty modificando cosas como el normal map, heigher map y oclusion map ademas de la iluminacio, realismo y sombras para darle direfentes efectos y texturas a el mismo objeto
