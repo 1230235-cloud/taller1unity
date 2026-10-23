@@ -6,7 +6,7 @@ Proyecto práctico desarrollado en **Unity 6** enfocado en la creación, configu
 
 ## Captura del Proyecto
 
-![Muestra de Materiales y Texturas en Unity](docs/images/imagen_pegada.png)
+![Muestra de Materiales y Texturas en Unity](texturas/docs/images/Imagen pegada.png)
 
 ---
 
